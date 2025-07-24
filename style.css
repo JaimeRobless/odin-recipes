@@ -1,0 +1,17 @@
+.title-box{
+    text-align: center;
+    padding: 25px;
+    background-color:rgb(244, 147, 228);
+    border:3px solid black;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+}
+
+.body-box ul{
+    text-align: center;
+    align-items: center;
+    list-style-position: inside;
+    background-color:antiquewhite;
+    border:2px solid black;
+    height: 125px;
+    padding: 50px;
+}
